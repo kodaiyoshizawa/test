@@ -3,6 +3,6 @@ test
 test2
 kuga
 
-マスター
+マスター２
 
 test3 yoshizawa
